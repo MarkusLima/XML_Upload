@@ -41,6 +41,9 @@ dados completos do destinatário e valor total da nota fiscal;
 ```
 
 ## Imagens do projeto
+![App Screenshot](/docs/Capturar.PNG?text=App+Screenshot+Here)
+![App Screenshot](/docs/Capturar1.PNG?text=App+Screenshot+Here)
+![App Screenshot](/docs/Capturar2.PNG?text=App+Screenshot+Here)
 
 ## Obs
 ```
