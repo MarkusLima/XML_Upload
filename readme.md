@@ -39,3 +39,10 @@ dados completos do destinatário e valor total da nota fiscal;
 - Alterar o host, banco, usuário e senha no arquivo ./src/config/db.php
 - Acessar http://localhost:8000(Caso esteja utilizando o Xamp : acesse http://localhost)
 ```
+
+## Imagens do projeto
+
+## Obs
+```
+Para realizar testes existe o diretorio /xml para realizar upload caso não tenha nenhum arquivo para utilizar
+```
